@@ -1,6 +1,14 @@
-### Hi there 👋
+### Olá 👋
+- 🔭 Atualmente trabalho na [@agilecontent](https://github.com/agilecontent)
+- 🔴 Também faço lives sobre C#, Python e JavaScript em [@escslabtech](https://github.com/escslabtech)
+- 💬 Me pergunte sobre C#, Python e JavaScript
+- 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
+
+> "Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples!" - Uncle Bob
 
 <!--
+### Hi there! ✌
+
 **neiesc/neiesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
