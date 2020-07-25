@@ -4,9 +4,9 @@
 - 💬 Me pergunte sobre C#, Python e JavaScript
 - 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
 
-> "Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples!" - Uncle Bob
-
 ![Edinei's github stats](https://github-readme-stats.vercel.app/api?username=neiesc&show_icons=true&count_private=true&theme=dracula)
+
+> "Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples!" - Uncle Bob
 
 <!--
 ### Hi there! ✌
