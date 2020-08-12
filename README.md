@@ -1,7 +1,7 @@
 ### Olá 👋
 - 🔭 Atualmente trabalho na [@agilecontent](https://github.com/agilecontent)
 - 🔴 Criador de conteúdo na [@escslabtech](https://github.com/escslabtech) ([youtube](http://skip.gg/NiO9B) e [twitch](http://twitch.tv/escslabtech))
-- 💬 Me pergunte sobre C#, Python e JavaScript
+- 💬 Me pergunte sobre C#, Python, JavaScript e TypeScript
 - 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
 
 ![Edinei's github stats](https://github-readme-stats.vercel.app/api?username=neiesc&show_icons=true&count_private=true&theme=dracula)
