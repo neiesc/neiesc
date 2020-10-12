@@ -1,6 +1,6 @@
 ### Olá 👋
 - 🔭 Atualmente trabalho na [@agilecontent](https://github.com/agilecontent)
-- 🔴 Criador de conteúdo na [@escslabtech](https://github.com/escslabtech) ([youtube](http://skip.gg/NiO9B) e [twitch](http://twitch.tv/escslabtech))
+- 🔴 Criador de conteúdo na [@escslabtech](https://github.com/escslabtech) ([youtube](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA) e [twitch](http://twitch.tv/escslabtech))
 - 💬 Me pergunte sobre C#, Python, JavaScript e TypeScript
 - 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
 
