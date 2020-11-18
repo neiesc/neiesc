@@ -8,6 +8,10 @@
 
 > "Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples!" - Uncle Bob
 
+> "Qualque coisa é melhor que nada."
+
+> "Pouco e sempre bate de longe no muito e nunca."
+
 <!--
 ### Hi there! ✌
 
