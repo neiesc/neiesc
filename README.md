@@ -1,6 +1,6 @@
 ### Olá 👋
-- 🔭 Atualmente trabalho na [@agilecontent](https://github.com/agilecontent)
-- 🔴 Criador de conteúdo na [@edineidev](https://github.com/edineidev) ([youtube](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA) e [twitch](http://twitch.tv/escslabtech))
+- 🔭 Atualmente trabalho na [@way2-technology](https://github.com/way2-technology)
+- 🔴 Criador de conteúdo na [@edineidev](https://github.com/edineidev) ([youtube](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA) e [twitch](http://twitch.tv/edineidev))
 - 💬 Me pergunte sobre C#, Python, JavaScript e TypeScript
 - 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
 
