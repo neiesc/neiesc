@@ -1,5 +1,7 @@
-### Olá 👋
-- 🔭 Atualmente trabalho na iVera
+# Wellcome to my world 🌎
+## Olá 👋
+Me chamo Edinei e em linguagem binaria `01100101 01100100 01101001 01101110 01100101 01101001`
+- 🔭 Atualmente trabalho na [AceleraIA](https://www.aceleraia.com.br)
 - 🔴 Criador de conteúdo na [@edineidev](https://github.com/edineidev) ([youtube](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA) e [twitch](http://twitch.tv/edineidev))
 - 💬 Me pergunte sobre C#, Python, JavaScript e TypeScript
 - 📫 Como me achar: [@neiesc](https://twitter.com/neiesc) no twitter
