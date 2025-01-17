@@ -1,12 +1,8 @@
 # Wellcome to my world 🌎
 ![GitHub User's stars](https://img.shields.io/github/stars/neiesc?logo=github&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/neiesc?logo=github&style=for-the-badge)
-
 ![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/neiesc?logo=ycombinator&style=for-the-badge)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/neiesc?logo=twitter&style=for-the-badge)](https://twitter.com/neiesc)
-
 [![Twitch Status](https://img.shields.io/twitch/status/edineidev?style=for-the-badge&logo=twitch)](https://twitch.tv/edineidev)
-
 [
     ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkSe6llMT88LqEGrMROSUbA?style=for-the-badge&logo=youtube)
     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkSe6llMT88LqEGrMROSUbA?style=for-the-badge&logo=youtube)
