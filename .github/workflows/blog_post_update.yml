@@ -15,3 +15,6 @@ jobs:
           readme-section: feed
           max: 5
           template: "* [{{ title }}]({{ link }}) \n"
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Ensure the token has the correct permissions
+          branch: master
+          empty-commits: true
