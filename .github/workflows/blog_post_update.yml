@@ -4,14 +4,18 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  push:
+    branches: [ main ]
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://edinei.dev/index.rss
           readme-section: feed
           max: 5
+          branch: main
+          empty-commits: false
           template: "* [{{ title }}]({{ link }}) \n"
