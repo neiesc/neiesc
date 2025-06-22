@@ -27,7 +27,7 @@ Architecture and Solutions from XP Educação. He is also a global nominee for t
 
 - 🔭 Atualmente sou Software Engineer
 - 🔴 Criador de conteúdo
-  na [@edineidev](https://github.com/edineidev) ([youtube](https://www.youtube.com/channel/UCkSe6llMT88LqEGrMROSUbA)
+  na [@edineidev](https://github.com/edineidev) ([youtube](https://www.youtube.com/@edineidev)
   e [twitch](http://twitch.tv/edineidev))
 - 💬 Me pergunte sobre C#, Python, JavaScript e TypeScript
 - 📫 Como me achar: [@edinei.social on Bluesky](https://bsky.app/profile/edinei.social)
