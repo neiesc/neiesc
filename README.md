@@ -35,6 +35,11 @@ Architecture and Solutions from XP Educação. He is also a global nominee for t
 ## 📗 Recent edinei.dev blog posts
 
 <!--START_SECTION:feed-->
+* [🔮"Se eu pudesse falar com meu 'eu' de 15 anos atrás… o que eu diria?"](https://edinei.dev/quinze-anos-atras.html)
+* [🐍 Oceano do Python](https://edinei.dev/oceano-python.html)
+* [🦀 Welcome Marmite](https://edinei.dev/welcome-marmite.html)
+* [⚙Ferramentas de produtividade de desenvolvimento para Windows 11](https://edinei.dev/dicas-windows-11.html)
+* [🔮O que eu diria para o meu EU de 10 (11) anos atrás](https://edinei.dev/dez-anos-atras.html)
 <!--END_SECTION:feed-->
 
 > "Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples!" -
