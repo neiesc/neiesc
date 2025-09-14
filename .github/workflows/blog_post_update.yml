@@ -1,11 +1,9 @@
-name: Update readme with edinei.dev blog posts
+name: Update this repo's README
+
 on:
-  workflow_dispatch:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
-  push:
-    branches: [ master ]
 
 jobs:
   update:
@@ -15,7 +13,3 @@ jobs:
         with:
           feed-url: https://edinei.dev/index.rss
           readme-section: feed
-          max: 5
-          branch: main
-          empty-commits: false
-          template: "* [{{ title }}]({{ link }}) \n"
