@@ -19,3 +19,4 @@ jobs:
         with:
           feed-url: https://edinei.dev/index.rss
           readme-section: feed
+          github_token: ${{ secrets.GITHUB_TOKEN }}
